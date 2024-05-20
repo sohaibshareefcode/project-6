@@ -1,0 +1,177 @@
+ul li{
+    list-style: none;
+    display: flex;
+   padding: 0px 15px;
+   padding-top: 10px;
+ 
+  color:#EBCEAE;
+   display: inline;
+
+}
+.header1{
+    background-color:#EAE9E4;
+    padding-bottom: 50px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    
+}
+.spicy{
+    color: #A79A95;
+}
+.nav-bar{
+    margin-left: 40%;
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.nav-left{
+    width: 40%;
+}
+.body{
+    width: 80%;
+    margin: auto;
+}
+.nav-right{
+    width: 40%;
+   border-top: 5px solid #E19F12;
+    margin-left: 20%;
+    margin-top: 2%;
+    background-color: #5A2F27;
+    text-align: center;
+
+}
+.all{
+    width: 80%;
+    padding: 30px 0px;
+
+   margin: 15px;
+    border: none; 
+   background-color:#5A2F27 ;
+    border-bottom: 1px solid white;
+}
+.food{
+    text-align: center;
+    padding: 0px 80px;
+    font-size: 30px;
+}
+
+.body-card{
+    display: flex;
+ 
+    margin-top: 100px;
+
+}
+.card{
+   margin: 0px 10px;
+    padding: 40px 40px 60px 40px;
+    background-color: #5A2F27;
+    text-align: justify;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+.imag{
+    width: 140px ;
+    height: 140px;
+    margin-top: -100px;
+}
+.body1{
+    padding-top: 50px;
+    width: 80%;
+    margin: auto;
+}
+.how{
+    text-align: center;
+    font-size: 30px;
+}
+.card-section{
+    display: flex;
+    margin-bottom: 100px;
+
+}
+.card1{
+    margin-left:25px;
+    padding: 0px 50px 40px 50px;
+    
+   
+   background-color:#EDA911;
+   border-radius: 0px 50px 0px 50px;
+   
+
+}
+.crule{
+   
+    border-radius: 70px;
+   
+    padding: 0px 20px;
+   
+    margin-top: -80px;
+    margin-left: -70px;
+    display: inline-block;
+    background-color:#5A2F27;
+    color: white;
+}
+.center-section{
+   padding: 10% 0%;
+    background-color:#5A2F27;
+
+}
+.center-child{
+    
+    display: flex;
+    
+
+    gap: 3rem;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.down{
+    display: flex;
+    border-radius: 20px ;
+    padding: 10px 20px;
+    gap: 10px;
+    justify-content: center;
+    
+}
+.down span{
+    border-radius: 50%;
+}
+.child{
+    
+    background-color: white;
+    padding: 20px 40px;
+    text-align: center;
+  
+}
+
+.fa-regular{
+    padding: 7px;
+    font-size: 25px;
+    color:#EDA911 ;
+}
+
+
+.person{
+    width: 100px;
+    height: 100px;
+    margin-top: -60px;
+    border-radius: 50px;
+}
+.quote-section{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.foot{
+    text-align: center;
+    padding: 10px 0px;
+    background-color: #582E26;
+    color: white;
+}
